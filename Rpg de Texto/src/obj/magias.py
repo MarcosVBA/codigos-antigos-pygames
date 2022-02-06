@@ -1,0 +1,15 @@
+from src.magia import *
+
+sombra = Magia("sombra", "dado/2", "Invencibilidade")
+bolaDeFogo = Magia("bola de fogo", "dado*4 + 35", "Dano")
+faisca = Magia("faisca", "dado*3 + 20", "Dano")
+investida = Magia("investida", "12", "Ataque")
+corteFantasma = Magia("corte fantasma", "10", "Ataque", "sombra.Usar(player,alvo)")
+ataqueExplosivo = Magia("ataque explosivo", "10", "Ataque", "faisca.Usar(player,alvo)")
+escudoExplosivo = Magia("escudo explosivo", "dado*4 + 6", "Dano", "sombra.Usar(player,alvo)")
+ataqueDuplo = Magia("ataque duplo", "10", "Ataque", "investida.Usar(player,alvo)")
+tempestadeDeChamas = Magia("tempestade de chamas", "dado*5 + 40", "Dano")
+laminaDivina = Magia("lamina divina", "30", "Ataque")
+ninjutsu = Magia("ninjutsu", "dado", "Invencibilidade")
+furia = MagiaBuff("furia", "dado", "5")
+forcaDivina = MagiaBuff("forca divina", "dado", "10")

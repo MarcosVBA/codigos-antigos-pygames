@@ -1,0 +1,11 @@
+nSei = "Não sei como você veio parar aqui?"
+fl0 = "Após a batalha você percebe que este lugar pode ter algo de especial, *Talves seja legal 'procurar item' nesta região."
+fl1 = "Você esta no inicio da floresta que ira te levar ao castelo do mago, ao norte você vê uma trilha que pode te levar em direção de seu objetivo, ao sul existe um caminho para uma clareira."
+fl2 = "Você caminha até encontrar uma divisa na trilha, ao norte você continua seu caminho para o seu objetivo, ao oeste tem outro caminho para o castelo adentrando ainda mais na floresta, ao sul você volta para o inicio."
+fl3 = "Você se encontra em uma encruzilhada em que ao norte esta o portão do castelo porem parece que para abri-la precisa-se de uma chave, ao leste esta a entrada do jardim do castelo, ao oeste tem um caminho alternativo para a floresta, ao sul você volta pra a trilha."
+fl4 = "A trilha alternativa te leva para um caminho no meio da floresta ao oeste do castelo, se seguir para o norte você entrara ainda mais na floresta e estara mais perto do castelo, ao leste você retorna a trilha principal."
+fl5 = "Você esta dentrao da floresta, ao leste exite um caminho que te guia para uma encruzilhada, ao sul você volta pra a entrada da floresta"
+fl6 = "Você esta na entrada para o jardim do castelo, o fato do castelo estar abandonado fez com que nesta região esteja tomada pelo mato, ao leste você entra no jardim, e se seguir para o oeste você volta para a encruzilhada."
+jl1 = "O jardim do castelo esta totalmente destruido, tomado pela vegetação e entulhos das paredes que cairam no chão, talvez tenha algum item por aqui, ao norte você vê uma passa entre duas colunas que te guia para a parte central do jardim, ao oeste você volta para a entrada."
+jl2 = "A parte central do jardim é ando ficava a estufa do castelo, que agora já nem coseguia-se distingui-la dos entulhos do castelo, a trilha ao redor da estufa leva para uma porta lateral do castelo, e para o sul você volta para a segunda parte do jardim."
+
